@@ -7,6 +7,12 @@ import java.util.Date;
 
 public class FirstWithJoda {
 
+    /*
+   Pt rularea din terminal am creat un artefact si se ruleaza comanda de mai jos:
+   D:\ITeaHome\JAVA\FirstWithJoda>
+   java -jar out/artifacts/FirstWithJoda_jar/FirstWithJoda.jar
+     */
+
     public static void main(String[] args) {
 
         String startDate = "01/01/2019 00:00:00";
